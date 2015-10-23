@@ -1,0 +1,18 @@
+# Inv2
+Friday Oct 23 12:03:21
+Esta versión contiene mejoras de Inv1 con validaciones, limiando código comentado y quitando vistas de más.
+
+Se agrego este nuevo repositorio llamado Inv2 y en la fecha superior y lo siguiente tiene una fecha antes por que se preparo el readme con especificaciones de lo mejorado y avanzado, para  después almacenarlo en este repositorio.
+
+Wednesday Oct 21 16:45:00
+En esta versión se tiene modificaciones de:
+
+1.- Verificación y validación del archivo a subir si existe o no.
+2.- Validación de extensión del archivo.
+3.- Limpieza de código como lo son comentarios y codigo que en su momento fue util y se utilizo para el desarrollo, se renombro para no modificar el anterior a b_subirgeneral2_view.php.
+4.- Realización de botón de retroceso cuando ya ya existe el archivo en el destino.
+5.- Guardando en el repositorio las vistas sin ninguna otra modificación.
+6.- Guardando en el repositorio el modelo sin modificación.
+7.- Realizado de cambios en la base de datos, realizando cambios en los tamaños de diferentes campos de los cuales al cargar otro archivo xml me guardaron los datos de manera cortada.
+8.- Guardando en el repositorio el el helper xml2array sin modificación.
+9.- En general la idea de este repositorio es para la versión más límpia del controlador y de subir todo para la limpieza de código basura en las vistas y en el controlador, para así pasar a la mejora en la validación de los campos a subir en la base de datos y despues relacionar la db Almacen.
